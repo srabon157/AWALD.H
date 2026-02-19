@@ -1,0 +1,251 @@
+
+.noto-sans-mono {
+  font-family: "Noto Sans Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+.bag-color {
+  background-color:rgba(13, 19, 33, 0.02);
+  padding: 60px ;
+  margin-top: 60px 0;
+  justify-content: center;
+  align-items: center;
+  max-width: 2000px;
+  margin: 0 auto; 
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.btn {
+  padding: 5px;
+  height: 57px;
+  width: 244px;
+  margin-top: 12px;
+  font-size: 18px;
+  border-radius: 8px;
+  color: rgb(124, 123, 123);
+}
+
+.hero {
+  background-image: url("./assets/Hero-bg.png");
+  text-align: center;
+  margin-top: 20px;
+  height: 655px;
+}
+
+.headding {
+  font-size: 50px;
+}
+
+.pera {
+  font-size: 30px;
+  height: 52px;
+  width: 1900px;
+  opacity: 0.6;
+}
+
+.bttn {
+  background-color: black;
+  color: aliceblue;
+  padding: 20px;
+  height: 60px;
+  width: 200px;
+  border-radius: 15px;
+  font-size: 20px;
+  margin-top: 20px;
+}
+.hed-lin {
+  text-align: center;
+}
+.card {
+  display: flex;
+  gap: 60px;
+  border-radius: 10px;
+  width: 746px;
+  height: 220px;
+  padding: 30px;
+  margin-left: 550px;
+  margin-top: 40px;
+  box-shadow:0 5px 20px rgba(0,0,0,0.1);;
+}
+.rr{
+    opacity: 0.6;
+}
+.all{
+
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+
+}
+.card-1{
+
+padding: 40px;
+  background-color:rgba(255, 76, 30, 0.05);
+  height: 199px;
+  width: 364px;
+  border-radius: 15px;
+
+
+} 
+.card-2{
+
+padding: 40px;
+  background-color:rgba(0, 76, 232, 0.05);
+  height: 199px;
+  width: 364px;
+  border-radius: 15px;
+
+
+} 
+.card-3{
+
+padding: 40px;
+  background-color:rgba(255, 223, 0, 0.05);
+  height: 199px;
+  width: 364px;
+  border-radius: 15px;
+
+
+} 
+.mark{
+  
+  text-align: center;
+}
+.chill-1 {
+
+  text-align: center;
+  margin-top: 50px;
+  
+}
+.box {
+
+  border: solid rgb(97, 95, 95) 2px;
+ width: 1140px;
+ height: 614px;
+ padding: 60px;
+ max-width: 1200px;
+  margin: 0 auto; 
+ border-radius: 50px;
+ margin-top: 50px;
+ 
+}
+
+.box-1{
+
+  border-radius: 40px;
+ width: 1067px;
+ height: 550px;
+ margin-top: 20px;
+}
+.my-section {
+
+  margin-top: 100px;
+}
+
+.cut {
+
+  display: flex;
+  gap: 20px;
+  border: solid rgb(154, 152, 152) 2px;
+ padding: 20px;
+  height: 150px;
+  width: 941px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+  border-radius: 20px;
+  box-shadow:0 5px 20px rgba(0, 0, 0, 0.1);
+
+
+}
+.kiss{
+
+  max-width: 1000px;
+  margin: 0 auto; 
+  
+  
+}
+.end{
+
+  text-align: center;
+  background-image: url(./assets/handshake.jpg);
+  padding: 50px;
+  height: 313px;
+  width: 1800px;
+  max-width: 1200px;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 60px;
+}
+.dd{
+
+  color: #f5f7fa;
+}
+.form{
+  max-width: 600px;
+  margin: 60px auto;
+  display: flex;
+  gap: 10px;
+  background: #f5f7fa;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+  
+}
+
+.form input{
+  flex: 1;
+  padding: 12px 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 14px;
+  outline: none;
+  transition: 0.3s;
+}
+
+.form input:focus{
+  border-color: #4CAF50;
+  box-shadow: 0 0 5px rgba(76, 175, 80, 0.3);
+}
+
+.form button{
+  padding: 12px 20px;
+  border: none;
+  background: #4CAF50;
+  color: white;
+  font-size: 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.form button:hover{
+  background: #45a049;
+  transform: scale(1.05);
+}
+.fooot-1{
+
+  display: flex;
+  gap: 70px;
+  justify-content: space-around;
+  margin-top: 70px;
+  border-radius: 20px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+
+
+
+}
+
+.foot{
+
+  margin-top: 20px;
+}
